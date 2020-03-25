@@ -1,0 +1,252 @@
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Aplikacija.dll.config
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Aplikacija.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Aplikacija.pdb
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csc.exe
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csc.exe.config
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csc.rsp
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csi.exe
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csi.exe.config
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\csi.rsp
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.AppContext.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Console.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.IO.Compression.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Claims.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\vbc.exe
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\vbc.exe.config
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\vbc.rsp
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.pocetna.resources
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations._bool.resources
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.sime2.resources
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.dll
+C:\Users\Korisnik\Desktop\Seminar\Ive\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.dll.config
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.pdb
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.exe
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.exe.config
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.rsp
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.exe
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.exe.config
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.rsp
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.AppContext.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Collections.Immutable.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Console.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Compression.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Reflection.Metadata.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.AccessControl.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Claims.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.ValueTuple.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.exe
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.exe.config
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.rsp
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe.config
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Antlr3.Runtime.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.Web.Infrastructure.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Newtonsoft.Json.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Helpers.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Mvc.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Optimization.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Razor.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\WebGrease.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Helpers.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Mvc.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Optimization.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Razor.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Newtonsoft.Json.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Antlr3.Runtime.pdb
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.pocetna.resources
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations._bool.resources
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.sime2.resources
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CopyComplete
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.dll
+C:\Programer Internet aplikacija - Seminarski Rad - Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.dll.config
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Aplikacija.pdb
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.exe
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.exe.config
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csc.rsp
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.exe
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.exe.config
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\csi.rsp
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.AppContext.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Collections.Immutable.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Console.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Compression.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.IO.Pipes.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Reflection.Metadata.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.AccessControl.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Claims.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.ValueTuple.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.exe
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.exe.config
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\vbc.rsp
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\roslyn\VBCSCompiler.exe.config
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Antlr3.Runtime.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.Web.Infrastructure.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Newtonsoft.Json.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Helpers.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Mvc.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Optimization.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Razor.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\WebGrease.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\EntityFramework.SqlServer.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Helpers.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Mvc.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Optimization.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.Razor.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Deployment.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\System.Web.WebPages.Razor.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Newtonsoft.Json.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Antlr3.Runtime.pdb
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.pocetna.resources
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations._bool.resources
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Migrations.sime2.resources
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CopyComplete
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.dll
+C:\Seminar Ive Martinovic\Ive Martinovic\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb

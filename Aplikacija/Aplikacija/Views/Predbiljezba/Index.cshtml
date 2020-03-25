@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Aplikacija.Models.Predbiljezba>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Pretraži predbilježbe</h2>
+
+@using (Html.BeginForm("SearchFilter","Predbiljezba",FormMethod.Post))
+{
+<div class="form-inline">
+    Pretraga: <input type="text" class="form-control" name="searching" />
+    Status:
+    @Html.DropDownList("status",new SelectList(new string[] {"Svi","Obrađeno","Neobrađeno" }),
+                        new {@class="form-control" })
+
+    <button type="submit" class="btn btn-default">Pretraži</button>
+</div>
+<br /> 
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Seminar.Naziv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Datum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prezime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Seminar.Naziv)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Datum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prezime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adresa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdPredbiljezba }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdPredbiljezba }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdPredbiljezba })
+        </td>
+    </tr>
+}
+
+</table>

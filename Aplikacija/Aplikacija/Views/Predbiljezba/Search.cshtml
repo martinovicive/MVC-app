@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Aplikacija.Models.Seminar>
+
+<br /><br />
+@using (Html.BeginForm("Search", "Predbiljezba", FormMethod.Get))
+{
+<div class="form-inline">
+    <input type="text" name="searching" class="form-control" />
+    <input type="submit" value="Pretraži" class="form-control" />
+</div>
+}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Naziv</th>
+            <th>Datum</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="3">Nema seminara koji udovoljava uvjetima pretrage.</td>
+            </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink("Odaberi", "Create", new { id = item.IdSeminar }) 
+                    </td>
+                    <td>@item.Naziv</td>
+                    <td>@item.Datum.ToShortDateString()</td>
+                </tr>
+            }
+
+        }
+    </tbody>
+</table>
+
+
